@@ -31,9 +31,9 @@ public class SwaggerConfig {
 	 
 	private ApiInfo apiInfo() {
 	     return new ApiInfo(
-	       "Tienda API", 
+	       "Kenyo Joel Pecho Ñaupari", 
 	       "Some custom description of API.", 
-	       "API Tienda", 
+	       "API PERSONA", 
 	       "Terms of service", 
 	       new Contact("kenyoJoel903", "https://github.com/kenyoJoel903", "kenyojoel903@gmail.com"), 
 	       "License of API", "API license URL", Collections.emptyList());
